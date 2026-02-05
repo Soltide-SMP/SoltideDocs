@@ -2,7 +2,7 @@
 description: Soltide supports both Minecraft Java and Bedrock on the latest version.
 ---
 
-# How to Join
+# Joining
 
 
 

@@ -4,17 +4,17 @@
 
 ## important
 
-* [Overview](important/overview.md)
-* [Rules](important/rules/README.md)
-  * [TPA Trapping / Killing](important/rules/tpa-trapping-killing.md)
+* [Overview](info/overview.md)
+* [Rules](info/rules/README.md)
+  * [TPA Trapping / Killing](info/rules/tpa-trapping-killing.md)
 
 ## Features
 
-* [Page 1](features/page-1.md)
+* [Custom Enchants](features/custom-enchants.md)
 * [Battle Arena](features/battle-arena.md)
 
 ## info
 
-* [Joining](info/joining.md)
+* [Joining](tutorials/how-to-join.md)
 * [Staff](info/staff.md)
-* [Homes](info/homes.md)
+* [Homes](tutorials/homes.md)
