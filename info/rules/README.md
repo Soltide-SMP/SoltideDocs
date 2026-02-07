@@ -22,6 +22,7 @@ Soltide tries to create a fun and safe space for everyone, and thus please make 
   * Spamming is considered to be any communication deemed as annoying. Repeated messages (3+ Times), text blocks, copy pastas, or other forms of communication intentionally used to annoy or harass other players is disallowed
 * Advertising is disallowed.
   * You may advertise a stream (YouTube / Twitch) on the server with permission from a staff member.
+  * You may not recommend, excessively mention, or provide the IP address to an external Minecraft server.
 * Facilitating illegal activity is disallowed.
 * Discussion of controversial topics is disallowed.
 * Discussion of NSFW / LEWD topics is disallowed.
