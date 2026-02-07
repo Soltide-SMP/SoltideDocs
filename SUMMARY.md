@@ -15,6 +15,7 @@
 
 ## info
 
+* [Inventory Restoration](info/inventory-restoration.md)
 * [Joining](tutorials/how-to-join.md)
 * [Staff](info/staff.md)
 * [Homes](tutorials/homes.md)
