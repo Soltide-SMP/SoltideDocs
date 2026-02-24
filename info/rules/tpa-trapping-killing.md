@@ -20,7 +20,7 @@ You may not engage in combat with intent to kill a player if they've recently te
 #### Exceptions:
 
 {% hint style="warning" %}
-Rules against TPA Trapping / Killing do not apply after 3 minutes have elapsed since the player was teleported.
+Rules against TPA Trapping / Killing do not apply after 5 minutes have elapsed since the player was teleported.
 {% endhint %}
 
 You may kill a player who has teleported to you IF:
