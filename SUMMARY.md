@@ -7,6 +7,7 @@
 * [Overview](info/overview.md)
 * [Rules](info/rules/README.md)
   * [TPA Trapping / Killing](info/rules/tpa-trapping-killing.md)
+* [Punishments](important/punishments.md)
 * [Support](important/support.md)
 
 ## Features
