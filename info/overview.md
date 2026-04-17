@@ -9,6 +9,8 @@ Soltide attempts to offer a semi-vanilla experience but with more engagement, ch
 
 There is no "correct" way to play Soltide — you can adventure and advance in your own way!
 
+The common route of progression that most players do is as follows:
+
 {% stepper %}
 {% step %}
 ### Teleport into the world
