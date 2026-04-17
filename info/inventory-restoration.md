@@ -12,7 +12,7 @@ Inventory restorations will not be given due to client side disconnects, or as a
 
 ### What qualifies for an inventory restoration?
 
-If you die as a result of a server side issue (**NOT** client side- your internet connection's stability is of your own responsibility), teleportation trap / kill (See [here](rules/tpa-trapping-killing.md) for more info) , or as a result of a hacker you _may_ be able to reclaim certain items.
+If you die as a result of a server side issue (**NOT** client side - your internet connection's stability is of your own responsibility), teleportation trap / kill (See [here](rules/tpa-trapping-killing.md) for more info) , or as a result of a hacker you _may_ be able to reclaim certain items.
 
 ### What can my inventory be restored from?
 
@@ -35,5 +35,5 @@ Please note that upon submitting an inventory restoration request you are bound 
 * You _**CANNOT**_ use the inventory restoration process to duplicate items.
   * When requesting a restoration you _**must**_ disclose any items you were able to regain.
   * If you discover any items later on you _**must**_ disclose them to a staff member ASAP.
-  * Certain items have anti-duplication measures which if triggered from a duplication and you fail to disclose said item it may result in an account reset.
+  * Certain items have anti-duplication measures, which if triggered from a duplication and you failed to disclose the item that got duplicated, your account may get reset.
 * You cannot request the restoration of features that were not affected.
