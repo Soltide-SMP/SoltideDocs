@@ -21,3 +21,11 @@
 * [Staff](info/staff.md)
 * [Homes](tutorials/homes.md)
 * [Inventory Restoration](info/inventory-restoration.md)
+
+## Legal
+
+***
+
+* [Terms](terms.md)
+* [Store Terms](store-terms-of-service.md)
+* [Privacy](privacy.md)
