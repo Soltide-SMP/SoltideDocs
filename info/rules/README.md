@@ -72,7 +72,7 @@ This section only applies to you if you use a non-vanilla client.
 * Do not use alternate accounts.
   * In certain situations you may request authorization from a staff member to use them. If you need this, please make a ticket.
 * Do not attempt to lag / crash the server.
-* Do not abuse bugs.
+* Do not [abuse bugs](../../important/rules/bug-abuse.md).
   * Please report them via Discord. If you do not have Discord please E-mail us at [soltide@pbsi.xyz](mailto:soltide@pbsi.xyz)
 * Do not create farms that use an excessive amount of entities.
   * If your farm uses more than 300 entities you may be asked to limit it or your farm may be removed.
