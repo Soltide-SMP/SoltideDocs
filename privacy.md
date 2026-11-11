@@ -39,17 +39,17 @@ _**In Short:**_ _We collect personal information that you provide to us._\
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.\
 **Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 
-* names
-* email addresses
-* phone numbers
-* contact preferences
-* Minecraft account data (Usernames, UUIDs, etc)
-* Discord account data (Username, Display name, etc)
-* IP addresses
+* Names
+* Email Addresses
+* Phone Numbers
+* Contact Preferences
+* Minecraft Account Data (Usernames, UUIDs, etc)
+* Discord Account Data (Username, Display name, etc)
+* IP Addresses
 * Account history (Interactions with the server, chat messages, etc)
 
 **Sensitive Information.** We do not process sensitive information.\
-**Payment Data.** We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by PayPal. You may find their privacy notice link(s) here: [https://www.paypal.com/us/legalhub/paypal/privacy-full](https://www.paypal.com/us/legalhub/paypal/privacy-full).\
+**Payment Data.** We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. We may also collect contact information provided, such as emails and phone numbers. All payment data is handled and stored by Stripe. You may find their privacy notice link(s) here: [https://stripe.com/privacy](https://stripe.com/privacy).\
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.<br>
 
 ### **2. How do we process your information?**
@@ -137,7 +137,7 @@ _**In Short:** If you are a resident of California, Colorado, Connecticut, Delaw
 
 #### **Categories of Personal Information We Collect**
 
-The table below shows the categories of personal information we have collected in the past twelve (12) months. The table includes illustrative examples of each category and does not reflect the personal information we collect from you. For a comprehensive inventory of all personal information we process, please refer to the section "[WHAT INFORMATION DO WE COLLECT?](https://store.soltide.net/legal/privacy#infocollect)"<br>
+The table below shows the categories of personal information we have collected in the past twelve (12) months. The table includes illustrative examples of each category and does not reflect the personal information we collect from you. For a comprehensive inventory of all personal information we process, please refer to the section "[WHAT INFORMATION DO WE COLLECT?](privacy.md#id-1.-what-information-do-we-collect)"<br>
 
 | **Category**   | **Examples**                                                                                                                                                                                             | **Collected**  |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -176,9 +176,9 @@ Learn more about the sources of personal information we collect in "[WHAT INFORM
 
 #### **How We Use and Share Personal Information**
 
-Learn more about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](https://store.soltide.net/legal/privacy#infouse)"\
+Learn more about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](privacy.md#id-2.-how-do-we-process-your-information)"\
 **Will your information be shared with anyone else?**\
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](https://store.soltide.net/legal/privacy#whoshare)"\
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](privacy.md#id-4.-when-and-with-whom-do-we-share-your-personal-information)"\
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.\
 We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
